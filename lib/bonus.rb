@@ -29,4 +29,4 @@ def bonus
   epic_tragedy
 end
 
-puts epic_tragedy
+puts bonus
